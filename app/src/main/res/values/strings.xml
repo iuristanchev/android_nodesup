@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tip">Click on refresh to check if the ips you entered are online.</string>
+    <string name="app_name">Yuriy\'s NodesUP</string>
+    <string name="On">On</string>
+    <string name="Off">Off</string>
+    <string name="Refresh">Refresh</string>
+    <string name="about">About</string>
+    <string name="Exit">Exit</string>
+    <string name="Port">Port</string>
+    <string name="service">Service</string>
+    <string name="Check">Check</string>
+    <string name="wifi">Wifi On</string>
+    <string name="wifioff">Wifi Off</string>
+</resources>
